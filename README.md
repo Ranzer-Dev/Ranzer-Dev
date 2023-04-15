@@ -1,4 +1,4 @@
-> Status do perfil: Em desenvolvimento
+> Arte do perfil: Em desenvolvimento
 
 ### Òla, bem vindo ao meu perfil \o
 
