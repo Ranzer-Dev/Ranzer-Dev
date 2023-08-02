@@ -1,6 +1,6 @@
 > Arte do perfil: Em desenvolvimento
 
-> ultima atualização: 16/07/23
+> ultima atualização: 1/08/23
 
 ### Òla, bem vindo ao meu perfil \o
 
