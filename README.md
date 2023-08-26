@@ -8,4 +8,8 @@ Se acessou essa pagina diretamente por alguma outra que não seja meu portfólio
 
 | :rocket: URL         | https://Ranzer-Dev.github.io
 
+também deixo aqui desafios e projetos que usam html css e javascript:
+
+| :rocket: URL         | https://codepen.io/Ranzer-Dev
+
 Ainda estou trabalhando no meu perfil, mas logo adicionarei coisas bem maneiras ^^
