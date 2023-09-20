@@ -4,7 +4,7 @@
 
 ### Òla, bem vindo ao meu perfil \o
 
-Se acessou essa pagina diretamente por alguma outra que não seja meu portfólio segue o link do portfólio
+Se acessou essa pagina diretamente por alguma outra que não seja meu portfólio segue o link do portfólio (por enquanto só tem um projeto e pagina incompleta, porem estou trabalhando nisso, aguardem ^^)
 
 | :rocket: URL         | https://Ranzer-Dev.github.io
 
