@@ -1,15 +1,26 @@
-> Arte do perfil: Em desenvolvimento
+# Bem-vindo ao meu perfil! 👋
 
-> ultima atualização: 06/09/24
+**Última atualização:** 06/09/24  
+**Status da arte do perfil:** Em desenvolvimento 🎨
 
-### Òla, bem vindo ao meu perfil \o
+### Olá! Eu sou Ranzer-Dev (Rodolfo)
 
-Se acessou essa pagina diretamente por alguma outra que não seja meu portfólio segue o link do portfólio (por enquanto só tem um projeto e pagina incompleta, porem estou trabalhando nisso, aguardem ^^)
+Sou um entusiasta de **desenvolvimento web** em constante aprendizado, especialmente nas áreas de **HTML**, **CSS**, e **JavaScript**. Aqui no GitHub, você encontrará meus projetos e experimentos, onde exploro diferentes técnicas e aprimoro minhas habilidades.
 
-| :rocket: URL         | https://Ranzer-Dev.github.io
+### 🌐 Acesse meu portfólio
+Se chegou aqui por outra página, confira meu portfólio em desenvolvimento para ver todos os meus projetos e atualizações!
 
-também deixo aqui desafios e projetos que usam html css e javascript:
+[Portfólio Ranzer-Dev](https://Ranzer-Dev.github.io)
 
-| :rocket: URL         | https://codepen.io/Ranzer-Dev
+### 💡 Experimentos e Desafios
+Também compartilho desafios e projetos mais dinâmicos com **HTML, CSS e JavaScript** no CodePen. Dê uma olhada para ver o que estou experimentando!
 
-Ainda estou trabalhando no meu perfil, mas logo adicionarei coisas bem maneiras ^^
+[Meu CodePen](https://codepen.io/Ranzer-Dev)
+
+### 📅 Em breve...
+Estou sempre trabalhando para melhorar meus projetos e adicionar novas funcionalidades. Fique ligado para novidades!
+
+---
+
+Obrigado por visitar meu perfil! Feedbacks e sugestões são sempre bem-vindos. 😊
+
