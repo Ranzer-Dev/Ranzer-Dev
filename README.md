@@ -29,8 +29,5 @@ Estou sempre trabalhando para melhorar meus projetos e adicionar novas funcional
   </a>
 </div>
 
-![Snake animation](https://Ranzer-Dev.github.io/Ranzer-Dev/github-contribution-grid-snake.svg)
-
-
 Obrigado por visitar meu perfil! Feedbacks e sugestões são sempre bem-vindos. 😊
 
