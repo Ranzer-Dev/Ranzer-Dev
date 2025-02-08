@@ -1,6 +1,5 @@
 # Bem-vindo ao meu perfil! 👋
 
-**Última atualização:** 06/09/24  
 **Status da arte do perfil:** Em desenvolvimento 🎨
 
 ### Olá! Eu sou Ranzer-Dev (Rodolfo)
