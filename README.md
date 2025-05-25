@@ -12,7 +12,7 @@ Se chegou aqui por outra página, confira meu portfólio em desenvolvimento para
 [Portfólio Ranzer-Dev](https://Ranzer-Dev.github.io)
 
 ### 💡 Experimentos e Desafios
-Também compartilho desafios e projetos mais dinâmicos com **HTML, CSS e JavaScript** no CodePen. Dê uma olhada para ver o que estou experimentando!
+Também compartilho desafios e projetos mais dinâmicos com **HTML, CSS e JavaScript** no CodePen. Dê uma olhada para ver o que estou experimentando!(desatualizado)
 
 [Meu CodePen](https://codepen.io/Ranzer-Dev)
 
