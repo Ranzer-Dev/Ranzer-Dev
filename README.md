@@ -1,32 +1,76 @@
-# Bem-vindo ao meu perfil! 👋
+<h1 align="center">Bem-vindo ao meu perfil 👋</h1>
 
-**Status da arte do perfil:** Em desenvolvimento 🎨
-
-### Olá! Eu sou Ranzer-Dev (Rodolfo)
-
-Sou um entusiasta de **desenvolvimento web** em constante aprendizado, especialmente nas áreas de **HTML**, **CSS**, e **JavaScript**. Aqui no GitHub, você encontrará meus projetos e experimentos, onde exploro diferentes técnicas e aprimoro minhas habilidades.
-
-### 🌐 Acesse meu portfólio
-Se chegou aqui por outra página, confira meu portfólio em desenvolvimento para ver todos os meus projetos e atualizações!
-
-[Portfólio Ranzer-Dev](https://Ranzer-Dev.github.io)
-
-### 💡 Experimentos e Desafios
-Também compartilho desafios e projetos mais dinâmicos com **HTML, CSS e JavaScript** no CodePen. Dê uma olhada para ver o que estou experimentando!(desatualizado)
-
-[Meu CodePen](https://codepen.io/Ranzer-Dev)
-
-### 📅 Em breve...
-Estou sempre trabalhando para melhorar meus projetos e adicionar novas funcionalidades. Fique ligado para novidades!
+<p align="center">
+  <strong>Rodolfo (Ranzer-Dev)</strong><br>
+  Desenvolvedor com foco em <strong>Back-End</strong><br>
+  Curioso, Calmo e sempre em busca de novos aprendizados.
+</p>
 
 ---
 
-<div>
-  <a href="https://github.com/Ranzer-Dev">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranzer-Dev&layout=compact&langs_count=7&theme=dracula"/>
+## ⚙️ Tecnologias que uso e mais gosto
 
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Tecnologias que sei usar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pine%20Script-0A0A0A?style=for-the-badge&logo=tradingview&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQL5-007ACC?style=for-the-badge&logo=metaquotes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 🧪 Experimentos & Desafios
+
+Confira alguns deles:
+
+🔗 [ranzer-dev.github.io](https://ranzer-dev.github.io)  
+🔗 [codepen.io/ranzer-dev](https://codepen.io/Ranzer-Dev)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranzer-Dev&show_icons=true&theme=dracula&hide_border=true&hide=contribs,prs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranzer-Dev&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=Ranzer-Dev&theme=dracula&hide_border=true"/>
+
 </div>
 
-Obrigado por visitar meu perfil! Feedbacks e sugestões são sempre bem-vindos. 😊
+---
 
+## ⏱️ Horas de codificação
+
+<div align="center">
+  <img width="600px" src="https://wakatime.com/share/@Ranzer/258a2e7b-855e-4c50-a3c8-b146ba3d08d7.svg" alt="WakaTime stats" />
+</div>
+
+---
+
+## 📅 Em construção...
+
+🛠️ Novos projetos, refatorações e estudos estão sempre em andamento.  
+Fique à vontade para acompanhar, dar sugestões ou contribuir! 😄
+
+---
+
+<p align="center">
+  Obrigado por visitar! Feedbacks são sempre bem-vindos 🤝
+</p>
