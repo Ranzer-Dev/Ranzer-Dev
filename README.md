@@ -59,7 +59,7 @@ Confira alguns deles:
 ## ⏱️ Horas de codificação
 
 <div align="center">
-  <img width="600px" src="https://wakatime.com/share/@Ranzer/258a2e7b-855e-4c50-a3c8-b146ba3d08d7.svg" alt="WakaTime stats" />
+  <img width="600px" src="https://wakatime.com/share/@Ranzer/96b73b1c-f6ad-465b-810f-fbb2a9cf3105.svg" alt="WakaTime stats" />
 </div>
 
 ---
