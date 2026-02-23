@@ -38,7 +38,7 @@
 
 Confira alguns deles:
 
-🔗 [ranzer-dev.github.io](https://ranzer-dev.github.io)  
+🔗 [ranzer-dev.github.io](https://ranzer-dev.github.io)  (obs: não atulizo a uns anos)
 🔗 [codepen.io/ranzer-dev](https://codepen.io/Ranzer-Dev) (obs: não atulizo a uns anos)
 
 ---
