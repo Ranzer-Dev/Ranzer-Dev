@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rodolfo Almeida
-### **Software Engineer | Backend & Full-Stack**
+### **Backend Software Engineer**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodolfo-almeida-2352b51b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,40 +12,41 @@
 ---
 
 <p align="center">
-Desenvolvedor de Software com foco em <strong>Engenharia de Backend</strong>, <strong>Arquitetura Limpa (Clean Architecture)</strong> e <strong>Sistemas Confiáveis</strong>.<br>
-Compromisso rigoroso com validação de contratos na borda (Zod), testes automatizados com alta cobertura e código limpo autoexplicativo.
+Engenheiro de Software com foco especializado em <strong>Engenharia de Backend</strong>, <strong>Modelagem de Dados Relacional & DBA</strong>, <strong>Arquitetura Limpa</strong> e <strong>Sistemas de Alta Confiabilidade</strong>.<br>
+Experiência em persistência transacional (SQL Server / PostgreSQL), biometria computacional, validação estrita de contratos na borda e esteiras de automação com Docker.
 </p>
 
 </div>
 
 ---
 
-## 🏛️ Vitrine de Engenharia & Projetos de Destaque
+## 🏛️ Vitrine de Engenharia Backend & Projetos de Destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/Ranzer-Dev/CPMA-PenasAlternativas">CPMA - Penas Alternativas</a></h3>
-      <p>Sistema corporativo para acompanhamento e governança de medidas e penas alternativas judiciais.</p>
+      <p>Sistema corporativo para gestão, auditoria e fiscalização biométrica de penas alternativas judiciais.</p>
       <ul>
-        <li><strong>Foco:</strong> Regras de negócio complexas, auditoria e segurança.</li>
-        <li><strong>Stack:</strong> TypeScript, Node.js, Clean Architecture, PostgreSQL.</li>
+        <li><strong>Foco Backend:</strong> Modelagem transacional complexa, autenticação, biometria facial e regras judiciais.</li>
+        <li><strong>Stack:</strong> Java 23, Microsoft SQL Server, Docker, JavaCV / OpenCV, DAO Pattern.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Arquitetura-Clean_Arch-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-SQL_Server_2022-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Engine-JavaCV_OpenCV-5C3EE8?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/Ranzer-Dev/NotaGest_Mobile">NotaGest Mobile</a></h3>
-      <p>Solução mobile integrada de gestão operacional e notas fiscais para agilidade em campo.</p>
+      <p>Solução mobile integrada para gestão operacional, persistência e emissão de notas fiscais.</p>
       <ul>
-        <li><strong>Foco:</strong> Sincronização de dados, experiência do usuário (HCI) e resiliência offline.</li>
-        <li><strong>Stack:</strong> TypeScript, React Native, REST API.</li>
+        <li><strong>Foco Backend/API:</strong> Consumo de endpoints RESTful, consistência de dados e regras de negócio.</li>
+        <li><strong>Stack:</strong> TypeScript, React Native, REST API, Zod Validation.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ecossistema-Mobile-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-RESTful-blue?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -63,9 +64,9 @@ Compromisso rigoroso com validação de contratos na borda (Zod), testes automat
     </td>
     <td width="50%" valign="top">
       <h3>📐 <a href="https://github.com/Ranzer-Dev/Conversor-Unidades-Medidas-CSS">Conversor de Unidades CSS</a></h3>
-      <p>Ferramenta de precisão para conversão dinâmica entre unidades de medida (px, rem, em, %, vh/vw).</p>
+      <p>Ferramenta de precisão para conversão dinâmica entre unidades de medida no desenvolvimento web.</p>
       <ul>
-        <li><strong>Foco:</strong> Agilidade em design systems e responsividade.</li>
+        <li><strong>Foco:</strong> Algoritmos de conversão matemática e agilidade de design.</li>
         <li><strong>Stack:</strong> JavaScript, CSS, HTML5.</li>
       </ul>
       <p>
@@ -77,22 +78,22 @@ Compromisso rigoroso com validação de contratos na borda (Zod), testes automat
 
 ---
 
-## 🛠️ Matriz de Competências & System Design
+## 🛠️ Matriz de Competências & System Design (Backend Centric)
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│ CORE & BACKEND                                                         │
-│ • TypeScript (Strict Mode)   • Node.js (ESM / Clean Arch)             │
+│ CORE BACKEND & LINGUAGENS                                              │
+│ • Java (Modern Java / Maven) • TypeScript / Node.js (Strict ESM)       │
 │ • C# / .NET                  • Python                                  │
 ├────────────────────────────────────────────────────────────────────────┤
-│ ARQUITETURA, DADOS & QUALIDADE                                         │
-│ • Validação de Contrato (Zod) • Automated Testing (Unit / Integration)  │
-│ • PostgreSQL                 • MongoDB / NoSQL                         │
-│ • Docker & Git Flow          • CI/CD Pipelines                         │
+│ ARQUITETURA DE DADOS & SEGURANÇA                                       │
+│ • Microsoft SQL Server 2022  • PostgreSQL                              │
+│ • Data Modeling & DDL/DML    • Transações ACID & Pool de Conexões      │
+│ • Validação de Contrato (Zod) • Hashing Criptográfico & Autenticação    │
 ├────────────────────────────────────────────────────────────────────────┤
-│ FRONTEND & HCI (Human-Computer Interaction)                            │
-│ • React / React Native       • Modern CSS (Grid / Flexbox / Tokens)    │
-│ • Interface Responsiva       • Acessibilidade & Usabilidade            │
+│ ENGENHARIA DE SOFTWARE & DEVOPS                                        │
+│ • Clean Architecture / DAO   • Docker & Docker Compose                 │
+│ • Biometria Facial (JavaCV)  • Git Flow & Automação CI                 │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
